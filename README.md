@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: 
   - https://twitter.com/ragibasif_
+  - https://www.linkedin.com/in/ragibasif/
 
 <!---
 ragibasif/ragibasif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
