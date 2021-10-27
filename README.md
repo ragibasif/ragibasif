@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++, Python, and Web Development.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: 
-  - https://www.linkedin.com/in/ragibasif/
+  - Email: ragibasif@protonmail.com
 
 <!---
 ragibasif/ragibasif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
