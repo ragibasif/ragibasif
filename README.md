@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @ragibasif
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning C++, Python, and Web Development.
-
+- Hello!
 
 
 <!---
