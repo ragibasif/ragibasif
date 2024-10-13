@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating elegant and classy software since the Big Bang.<br>📚 I'm currently learning how to become an AI.<br>🎯 Goals: I want to use science and math to prove the moon exists and isn't just some propaganda spread by big moon companies.<br>🎲 Fun fact: I go skydiving every morning to be energized and dominate the day.</p>
+<p align="left">✨ Creating elegant and classy software since the Big Bang.<br>📚 I'm currently learning how to become an AI.<br>🎯 Goals: I want to use science and math to prove the Moon exists and to <br>disprove the notion that the Moon is just some propaganda spread by big Moon companies.<br>🎲 Fun fact: I go skydiving every morning instead of drinking coffee to be energized for the day.</p>
 
 ###
 
