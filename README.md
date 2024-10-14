@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">The Computer Scientist and Mathematician!<br>An avid purist-leaning Vim user.<br>A strict vegetarian. I still eat chicken. And beef. And lamb.</p>
+<p align="left">The Computer Scientist and Mathematician!<br>An avid purist-leaning Vim user.<br>A strict vegetarian. I still eat chicken. And beef. And lamb. And of course, bacon.</p>
 
 ###
 
