@@ -1,3 +1,7 @@
+<div align="center">
+  <img style="background-color:rgba(221,81,111,.74)"  src="./lambda.png" alt="lambda"  />
+</div>
+
 <h1 align="center">Hey 👋 What's up?!</h1>
 
 ###
@@ -12,11 +16,13 @@
 
 ###
 
-<p align="left">The Computer Scientist and Mathematician!<br>An avid purist-leaning Vim user.<br>A strict vegetarian. I still eat chicken. And beef. And lamb. And of course, bacon.</p>
+<p align="left"><strong>The</strong> Computer Scientist and Mathematician!</p>
+<p align="left">An avid purist-leaning Vim user.</p>
+<p align="left">A strict vegetarian. <em>I still eat chicken. And beef. And lamb. And of course, bacon.</em></p>
 
 ###
 
-<p align="left">✨ Creating elegant and classy software since the Big Bang.<br>📚 I'm currently learning how to become an AI.<br>🎯 Goals: I want to use science and math to prove the Moon exists and to <br>disprove the notion that the Moon is just some propaganda spread by big Moon companies.<br>🎲 Fun fact: I go skydiving every morning instead of drinking coffee to be energized for the day.</p>
+<p align="left">✨ Creating elegant and classy software since the Big Bang.<br>📚 I'm currently learning how to become an AI.<br>🎯 Goals: I want to use science and math to prove the Moon exists.<br>🎲 Fun fact: I go skydiving every morning instead of drinking coffee to be energized for the day.</p>
 
 ###
 
