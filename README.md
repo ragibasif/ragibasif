@@ -1,5 +1,5 @@
 <div align="center">
-  <img style="background-color:rgba(221,81,111,.74)"  src="./lambda.png" alt="lambda"  />
+  <img src="./lambda.png" alt="lambda"  />
 </div>
 
 <h1 align="center">Hey 👋 What's up?!</h1>
