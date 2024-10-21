@@ -16,13 +16,11 @@
 
 ###
 
-<p align="left"><strong>The</strong> Computer Scientist and Mathematician!</p>
-<p align="left">An avid purist-leaning Vim user.</p>
-<p align="left">A strict vegetarian. <em>I still eat chicken. And beef. And lamb. And of course, bacon.</em></p>
+<p align="left">Computer Scientist and Mathematician</p>
 
 ###
 
-<p align="left">✨ Creating elegant and classy software since the Big Bang.<br>📚 I'm currently learning how to become an AI.<br>🎯 Goals: I want to use science and math to prove the Moon exists.<br>🎲 Fun fact: I go skydiving every morning instead of drinking coffee to be energized for the day.</p>
+<p align="left">✨ Creating effective software.<br>📚 Problem solving.<br>🎯 Goals: PhD<br>🎲 Fun fact: Enjoy reading classic literature.</p>
 
 ###
 
