@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ Creating effective software.<br>📚 Problem solving.<br>🎯 Goals: PhD<br>🎲 Fun fact: Enjoy reading classic literature.</p>
+<p align="left">✨ Creating effective software.<br>📚 Problem solving.<br>🎯 Goals: Obtain a PhD.<br>🎲 Fun fact: Enjoy reading classic literature.</p>
 
 ###
 
