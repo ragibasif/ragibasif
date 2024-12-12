@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./lambda.png" alt="lambda"  />
+  <img height=50 width=50 src="./icon.png" alt="haskell logo"  />
 </div>
 
 <h1 align="center">Hey 👋 What's up?!</h1>
@@ -16,11 +16,12 @@
 
 ###
 
-<p align="left">Computer Scientist and Mathematician</p>
+<p align="left"><strong>Computer Scientist and Mathematician</strong></p>
 
 ###
 
-<p align="left">✨ Creating effective software.<br>📚 Problem solving.<br>🎯 Goals: Obtain a PhD.<br>🎲 Fun fact: Enjoy reading classic literature.</p>
+<p align="left">✨ I create effective and efficient software.<br>📚 I love problem solving.<br>🎯 Goals: <ol><li>Obtain a PhD. 🎓</li><li>Land on the Sun. 🌞</li></ol><br>🎲 Fun fact: I enjoy reading classic literature.<br>😏 Most of my free time is spent spreading Haskell propaganda.
+</p>
 
 ###
 
