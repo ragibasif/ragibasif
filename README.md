@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">✨ I create effective and efficient software.<br>📚 I love problem solving.<br>🎯 Goals: <ol><li>Obtain a PhD. 🎓</li><li>Land on the Sun. 🌞</li></ol><br>🎲 Fun fact: I enjoy reading classic literature.<br>😏 Most of my free time is spent spreading Haskell propaganda.
+<p align="left">✨ I create effective and efficient software.<br>📚 I love problem solving.<br>🎲 Fun fact: I enjoy reading classic literature.<br>😏 Most of my free time is spent spreading Haskell propaganda.<br>🎯 Goals: <ol><li>Obtain a PhD. 🎓</li><li>Land on the Sun. 🌞</li></ol>
 </p>
 
 ###
