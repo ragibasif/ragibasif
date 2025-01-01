@@ -1,10 +1,10 @@
 <div align="center">
-  <img height=50 width=50 src="./icon.png" alt="haskell logo"  />
+  <img height=50 width=50 src="./sigma.png" alt="Greek letter sigma icon"  />
 </div>
 
 <h1 align="center">Hey 👋 What's up?!</h1>
 
-Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in functional programming, cybersecurity, and systems programming. Below you'll find more about me, my projects, and how to get in touch.
+Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in web programming, cybersecurity, and systems programming. Below you'll find more about me, my projects, and how to get in touch.
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ragibasif.ragibasif&left_color=darkslategrey&right_color=maroon&left_text=Visitors"  />
@@ -24,11 +24,10 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 - 🚴 I enjoy hiking and outdoor adventures.
 - 📚 I enjoy reading classic literature.
 - 🎲 I'm always up for a good book recommendation!
-- 😏 _Most of my free time is spent spreading Haskell propaganda._
 
 ### 🎯 Goals
 
-- 🌞 Obtain a PhD. _Doesn't have to be my own._ ;)
+- 🌞 Obtain a PhD.
 - ✨ Build a successful startup.
 
 ## 📚 Projects
@@ -57,37 +56,23 @@ Here are some of my notable projects:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="40" alt="neovim logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="40" alt="vim logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="40" alt="linux logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge" height="40" alt="haskell logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="40" alt="c logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white&style=for-the-badge" height="40" alt="markdown logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
 </div>
 
 ###
 
-- **Languages:** Python, JavaScript, HTML, CSS, C, C++, Haskell
+- **Languages:** Python, JavaScript, HTML, CSS, C, C++
 - **Frameworks/Libraries:** React, Node.js
 - **Databases:** MongoDB
 - **Tools:** Git
