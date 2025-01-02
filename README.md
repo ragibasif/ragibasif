@@ -77,7 +77,7 @@ Here are some of my notable projects:
 - **Databases:** MongoDB
 - **Tools:** Git
 
-## 📈 GitHub Stats _(short for Statistics)_
+## 📈 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ragibasif&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
