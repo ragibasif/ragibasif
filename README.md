@@ -4,11 +4,21 @@
 
 <h1 align="center">Hey 👋 What's up?!</h1>
 
-Welcome to my GitHub profile! I'm a passionate software engineer with a keen interest in web programming, cybersecurity, and systems programming. Below you'll find more about me, my projects, and how to get in touch.
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ragibasif.ragibasif&left_color=darkslategrey&right_color=maroon&left_text=Visitors"  />
 </div>
+
+<details>
+<summary>Welcome</summary>
+<br>
+
+Welcome to my GitHub profile! I'm **Ragib**, a passionate software engineer with a keen interest in web programming, cybersecurity, and systems programming. Below you'll find more about me, my projects, and how to get in touch.
+
+</details>
+
+<details>
+<summary>About</summary>
+<br>
 
 ## 🚀 About Me
 
@@ -30,6 +40,13 @@ Welcome to my GitHub profile! I'm a passionate software engineer with a keen int
 - 🌞 Obtain a PhD.
 - ✨ Build a successful startup.
 
+</details>
+
+<details>
+<summary>Projects</summary>
+<br>
+
+
 ## 📚 Projects
 
 Here are some of my notable projects:
@@ -38,18 +55,12 @@ Here are some of my notable projects:
 <!-- - **[Codeforces](https://github.com/ragibasif/codeforces):** A brief description of what this project does.
 - **[LeetCode](https://github.com/ragibasif/leetcode):** A brief description of what this project does. -->
 
+</details>
 
-## 📫 Get in Touch
+<details>
+<summary>Skills</summary>
+<br>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ragibasif/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1179af?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-- **Email:** [ragib.asif30@myhunter.cuny.edu](mailto:ragib.asif30@myhunter.cuny.edu)
-- **LinkedIn:** [@ragibasif](https://www.linkedin.com/in/ragibasif)
-<!-- - **Twitter:** [@yourhandle](https://twitter.com/yourhandle) -->
 
 ## 🛠️ Technologies & Tools
 
@@ -77,6 +88,13 @@ Here are some of my notable projects:
 - **Databases:** MongoDB
 - **Tools:** Git
 
+</details>
+
+<details>
+<summary>Statistics</summary>
+<br>
+
+
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -90,6 +108,20 @@ Here are some of my notable projects:
 
 <img src="https://raw.githubusercontent.com/ragibasif/ragibasif/output/snake.svg" alt="Snake animation" />
 
+</details>
+
+
+## 📫 Get in Touch
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ragibasif/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-1179af?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+- **Email:** [ragib.asif30@myhunter.cuny.edu](mailto:ragib.asif30@myhunter.cuny.edu)
+- **LinkedIn:** [@ragibasif](https://www.linkedin.com/in/ragibasif)
+<!-- - **Twitter:** [@yourhandle](https://twitter.com/yourhandle) -->
 
 
 ## 💬 Let's Connect
