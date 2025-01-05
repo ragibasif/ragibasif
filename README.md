@@ -110,6 +110,9 @@ Here are some of my notable projects:
 
 </details>
 
+<details>
+<summary>Contact</summary>
+<br>
 
 ## 📫 Get in Touch
 
@@ -129,3 +132,5 @@ Here are some of my notable projects:
 Feel free to reach out if you want to discuss technology, collaboration, or just say hi. I'm always open to making new connections and learning from others.
 
 Thanks for visiting my profile! Have a great day! 😊
+
+</details>
