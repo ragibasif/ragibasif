@@ -8,17 +8,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ragibasif.ragibasif&left_color=darkslategrey&right_color=maroon&left_text=Visitors"  />
 </div>
 
-<details>
-<summary>Welcome</summary>
-<br>
-
 Welcome to my GitHub profile! I'm **Ragib**, a passionate software engineer with a keen interest in web programming, cybersecurity, and systems programming. Below you'll find more about me, my projects, and how to get in touch.
-
-</details>
-
-<details>
-<summary>About</summary>
-<br>
 
 ## 🚀 About Me
 
@@ -40,30 +30,21 @@ Welcome to my GitHub profile! I'm **Ragib**, a passionate software engineer with
 - 🌞 Obtain a PhD.
 - ✨ Build a successful startup.
 
-</details>
-
-<details>
-<summary>Projects</summary>
-<br>
-
-
 ## 📚 Projects
 
 Here are some of my notable projects:
 
-- **[Music Visualizer](https://github.com/ragibasif/music-visualizer):** <!--A brief description of what this project does.-->
-<!-- - **[Codeforces](https://github.com/ragibasif/codeforces):** A brief description of what this project does.
-- **[LeetCode](https://github.com/ragibasif/leetcode):** A brief description of what this project does. -->
-
-</details>
-
-<details>
-<summary>Skills</summary>
-<br>
-
+- **Music Visualizer**
+  - [Demo](https://deutschmusik.netlify.app/)
+  - [Code](https://github.com/ragibasif/music-visualizer)
+- **NYC Vehicle Crash Analysis**
+  - [Demo](https://nyc-car-crashes.netlify.app/)
+  - [Code](https://github.com/ragibasif/NYC-mvc-crashes)
+- **Portfolio Website**
+  - [Demo](https://ragibasif.github.io)
+  - [Code](https://github.com/ragibasif/ragibasif.github.io)
 
 ## 🛠️ Technologies & Tools
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="40" alt="neovim logo"  />
@@ -88,13 +69,6 @@ Here are some of my notable projects:
 - **Databases:** MongoDB
 - **Tools:** Git
 
-</details>
-
-<details>
-<summary>Statistics</summary>
-<br>
-
-
 ## 📈 GitHub Statistics
 
 <div align="center">
@@ -108,12 +82,6 @@ Here are some of my notable projects:
 
 <img src="https://raw.githubusercontent.com/ragibasif/ragibasif/output/snake.svg" alt="Snake animation" />
 
-</details>
-
-<details>
-<summary>Contact</summary>
-<br>
-
 ## 📫 Get in Touch
 
 <div align="center">
@@ -124,13 +92,9 @@ Here are some of my notable projects:
 
 - **Email:** [ragib.asif30@myhunter.cuny.edu](mailto:ragib.asif30@myhunter.cuny.edu)
 - **LinkedIn:** [@ragibasif](https://www.linkedin.com/in/ragibasif)
-<!-- - **Twitter:** [@yourhandle](https://twitter.com/yourhandle) -->
-
 
 ## 💬 Let's Connect
 
 Feel free to reach out if you want to discuss technology, collaboration, or just say hi. I'm always open to making new connections and learning from others.
 
 Thanks for visiting my profile! Have a great day! 😊
-
-</details>
