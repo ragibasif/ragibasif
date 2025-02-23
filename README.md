@@ -80,11 +80,13 @@ Here are some of my notable projects:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random dev quote" />
 </div>
 
-<img src="https://raw.githubusercontent.com/ragibasif/ragibasif/output/snake.svg" alt="Snake animation" />
 
 ## 📫 Get in Touch
 
 <div align="center">
+  <a href="mailto:ragib.asif30@myhunter.cuny.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-b868bd?logo=maildotru&logoColor=white&style=for-the-badge" height="40" alt="email badge"  />
+  </a>
   <a href="https://www.linkedin.com/in/ragibasif/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1179af?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
@@ -98,3 +100,5 @@ Here are some of my notable projects:
 Feel free to reach out if you want to discuss technology, collaboration, or just say hi. I'm always open to making new connections and learning from others.
 
 Thanks for visiting my profile! Have a great day! 😊
+
+<img src="https://raw.githubusercontent.com/ragibasif/ragibasif/output/snake.svg" alt="Snake animation" />
