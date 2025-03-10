@@ -35,10 +35,10 @@ Welcome to my GitHub profile! I'm **Ragib**, a passionate software engineer with
 Here are some of my notable projects:
 
 - **Music Visualizer**
-  - [Demo](https://deutschmusik.netlify.app/)
+  - [Demo](https://ragibasif.github.io/music-visualizer/)
   - [Code](https://github.com/ragibasif/music-visualizer)
 - **NYC Vehicle Crash Analysis**
-  - [Demo](https://nyc-car-crashes.netlify.app/)
+  - [Demo](https://ragibasif.github.io/NYC-mvc-crashes/)
   - [Code](https://github.com/ragibasif/NYC-mvc-crashes)
 - **Portfolio Website**
   - [Demo](https://ragibasif.github.io)
