@@ -1,6 +1,6 @@
 # Ragib Asif
 
-![visitor-badge](https://visitor-badge.laobi.icu/badge?page_id=ragibasif.ragibasif&left_color=darkslategrey&right_color=darkorange&left_text=Visitors)
+![visitor-badge](https://visitor-badge.laobi.icu/badge?page_id=ragibasif.ragibasif&left_color=darkslategrey&right_color=darkgreen&left_text=Visitors)
 
 Computer Scientist and Mathematician based in NYC.
 
