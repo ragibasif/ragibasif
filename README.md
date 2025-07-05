@@ -9,8 +9,6 @@ B.A. Computer Science @ Hunter College
 Interested in software development, operating systems, programming languages, cybersecurity, computer networking,
 and open source software.
 
-_Neovim btw_
-
 [![Email](https://img.shields.io/badge/Email-b868bd?logo=maildotru&logoColor=white&style=for-the-badge)](mailto:ragib.asif30@myhunter.cuny.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1179af?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ragibasif/)
 
