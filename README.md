@@ -1,7 +1,5 @@
 # Ragib Asif
 
-![visitor-badge](https://visitor-badge.laobi.icu/badge?page_id=ragibasif.ragibasif&left_color=darkslategrey&right_color=teal&left_text=Visitors)
-
 Computer Scientist and Mathematician.
 
 B.A. Computer Science @ Hunter College
